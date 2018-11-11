@@ -4,3 +4,5 @@ python:
 install:
   - pip install pytest
 script: python test_sample.py
+notifications:
+  slack: rcsousa-home-lab:USIyf5RINv2cI0B5JvQXqkgg
